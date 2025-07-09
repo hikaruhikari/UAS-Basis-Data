@@ -26,5 +26,5 @@ $query->bind_param(str_repeat("s", count($values)), ...$values);
 $query->execute();
 
 echo "Data berhasil ditambahkan ke tabel <strong>$table</strong>!";
-echo "<br><a href='tambahin.php'>Kembali</a>"; //ganti nama file
+echo "<br><a href='menambah.php'>Kembali</a>"; //ganti nama file
 ?>
