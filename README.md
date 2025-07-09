@@ -1,5 +1,5 @@
 # UAS-Basis-Data
-#**Pengembangan Aplikasi Mini Basis Data Mahasiswa Berbasis MySQL dan PHP**
+# **Pengembangan Aplikasi Mini Basis Data Mahasiswa Berbasis MySQL dan PHP**
 Nama: Faiq Zainal Ridho
 
 NIM: 312410484
